@@ -1,0 +1,23 @@
+USERNAME and CLUB ID for three students: 2031458642
+			     		 2031326642
+			     		 2031454642
+
+(EACH USERNAME SHOWS DIFFERENT STUDENT'S INFORMATION)
+
+Default PASSWORD for all three students: 123456
+
+
+PROJECT FOCUS:
+
+The name of the project is "NSU STUDENT BOOTH". If we think about a North South University Bank, only for university students where students can keep their savings and hard
+earned money just like anyother bank. They can operate their transaction from this particular booth just like any other bank. Students can choose their courses as they want to
+for semesters and the booth automatically calculates their choosen credit and tuition fees. Students can pay their tuition fees according to their credit fees directly from their
+NSU bank account. A NSU student also can pay their cluub fees from this booth. The booth also shows the current educational and personal status of a student with their details which are 
+pre stored in the program. This type of physical booth can reduce the daily hassle of online portal.
+
+
+This project was submitted by:
+
+1.FARHAN ISHRAK TAHMID- 2031458642
+2.NANDINI DAS- 2031326642
+3.HUMAYRA JAHAN SHEMUSHEE- 2031454642

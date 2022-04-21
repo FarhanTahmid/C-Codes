@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625568304 source:g:\codes\c\own project\rifat\main.c
+	<stdio.h>
+	<stdlib.h>
+

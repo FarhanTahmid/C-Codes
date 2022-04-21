@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603866319 source:c:\users\g5\desktop\codes\c\random practice codes\main.c
+	<errno.h>
+	<stdio.h>
+
